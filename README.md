@@ -8,7 +8,6 @@
 
 This is a full-stack web application designed to help New Yorkers make smarter, greener, and less crowded mobility decisions.
 
----
 
 ## Team Members
 
