@@ -4,6 +4,8 @@
 
 [![Watch Demo](https://img.youtube.com/vi/v3rjbjH0VNo/maxresdefault.jpg)](https://www.youtube.com/watch?v=v3rjbjH0VNo)
 
+> Click the thumbnail above to watch the full application walkthrough.
+
 ---
 
 This is a full-stack web application designed to help New Yorkers make smarter, greener, and less crowded mobility decisions.
